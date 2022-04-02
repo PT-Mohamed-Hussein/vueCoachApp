@@ -1,0 +1,1 @@
+import{_ as s}from"./index.e802b6e0.js";import{c as t,j as r,n as o,o as n}from"./vendor.39cc6ec5.js";const _={props:{customClass:{type:String,required:!1,default:""}}};function c(e,d,a,l,p,u){return n(),t("span",{class:o(["area",a.customClass])},[r(e.$slots,"default",{},void 0,!0)],2)}var m=s(_,[["render",c],["__scopeId","data-v-5a46811a"]]);export{m as default};
